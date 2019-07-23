@@ -1,0 +1,6 @@
+HOST = "localhost"
+USER = "root"
+PASSWORD = "TioTioTio333"
+USER1 = "jbaw"
+PASSWORD1 = "TioTioTio333"
+DATABASE = "pur_beurre"
